@@ -1,6 +1,5 @@
 # TerpAnalysis
 
-# Description
 The purpose of this project is analyze the terpene makeup of weed strains and see
 if they can be used with several analytics algorithms to predict aroma profiles.
 
