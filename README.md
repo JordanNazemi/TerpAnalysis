@@ -1,5 +1,6 @@
-TerpAnalysis
+# TerpAnalysis
 
+# Description
 The purpose of this project is analyze the terpene makeup of weed strains and see
 if they can be used with several analytics algorithms to predict aroma profiles.
 
@@ -19,7 +20,8 @@ using the aroma data, which we simplified from 47 different aromas down to 10: â
 The AllBud website has changed format but the code originally used to skim the data can be found
 under the "scraping" folder.
 
-Install using "pip install -r requirements.txt"
+# Install
+Install using ````"pip install -r requirements.txt"````
 
 You can then run the individual models withing the /Models directory to run an analysis. The results of
 which are summarized in the Terpene Report
